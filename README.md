@@ -14,26 +14,15 @@
 
 ## 🎯 **01. About Me**
 
-```typescript
-const anTran = {
-  role: "Senior Fullstack Developer & Team Leader",
-  location: "Nha Trang, Vietnam 🇻🇳",
-  company: "Screen1 Technologies",
-  experience: "5+ years",
-  leadership: "2+ years",
-  
-  currentFocus: [
-    "Leading development teams",
-    "Building scalable web applications", 
-    "Mentoring junior developers",
-    "Digital transformation initiatives"
-  ],
-  
-  availableForHire: true
-};
-```
-
 > 💡 **Technical Leader** với 5+ năm kinh nghiệm, đã dẫn dắt các team phát triển và deliver **30+ enterprise applications** cho khách hàng quốc tế với **99.9% uptime**.
+
+**🎯 Current Focus:**
+- 🏢 Leading development teams at Screen1 Technologies
+- 🚀 Building scalable web applications  
+- 👨‍🏫 Mentoring junior developers
+- 🔄 Digital transformation initiatives
+
+📍 **Nha Trang, Vietnam** | ⏰ **5+ years experience** | 👥 **2+ years leadership** | ✅ **Available for hire**
 
 ---
 
@@ -66,16 +55,35 @@ const anTran = {
 ## 📊 **03. GitHub Analytics**
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanhan1997tr&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=14b8a6&text_color=94a3b8&icon_color=10b981&border_color=1e293b&hide_border=false"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhan1997tr&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=14b8a6&text_color=94a3b8&border_color=1e293b&hide_border=false"/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**GitHub Stats**
+
+<img src="https://github-readme-stats.vercel.app/api?username=thanhan1997tr&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=14b8a6&text_color=94a3b8&icon_color=10b981&border_color=1e293b&hide_border=false" alt="GitHub Stats" width="100%"/>
+
+</td>
+<td align="center" width="50%">
+
+**Most Used Languages**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhan1997tr&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=14b8a6&text_color=94a3b8&border_color=1e293b&hide_border=false" alt="Top Languages" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
 <div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thanhan1997tr&theme=tokyonight&background=0f172a&ring=14b8a6&fire=10b981&currStreakLabel=14b8a6&sideLabels=94a3b8&border=1e293b)
+
+**🔥 Contribution Streak**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhan1997tr&theme=tokyonight&background=0f172a&ring=14b8a6&fire=10b981&currStreakLabel=14b8a6&sideLabels=94a3b8&border=1e293b" alt="GitHub Streak" width="70%"/>
 
 </div>
 
