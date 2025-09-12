@@ -135,6 +135,3 @@
   **💙 Designed & Built with passion by An Tran**
   
 </div>
-
-<!-- Invisible character to maintain formatting -->
-<img width="100%" height="2" src="https://via.placeholder.com/1000x2/14b8a6/14b8a6"/>
