@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![An Tran Banner](https://via.placeholder.com/1000x300/0f172a/14b8a6?text=An%20Tran%20-%20Senior%20Fullstack%20Developer)
+  ![An Tran Banner](https://lh3.googleusercontent.com/d/1WGF9i2lLbQCj-3dv-fiY6IPLh2Ry3tMA)
   
   ### 🚀 Leading teams that transform **ideas** into **profitable digital solutions**
   
