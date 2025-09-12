@@ -14,7 +14,7 @@
 
 ## 🎯 **01. About Me**
 
-> 💡 **Technical Leader** với 5+ năm kinh nghiệm, đã dẫn dắt các team phát triển và deliver **30+ enterprise applications** cho khách hàng quốc tế với **99.9% uptime**.
+> 💡 **Technical Leader** with 5+ years of experience, leading development teams and delivering **30+ enterprise applications** for international clients with **99.9% uptime**.
 
 **🎯 Current Focus:**
 - 🏢 Leading development teams at Screen1 Technologies
