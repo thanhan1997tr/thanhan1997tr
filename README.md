@@ -89,7 +89,166 @@
 
 ---
 
-## 🏆 **04. Achievements & Stats**
+## 💼 **04. Featured Projects**
+
+<div align="center">
+
+### 🏢 **Enterprise Solutions**
+
+</div>
+
+<details open>
+<summary><b>🎯 ListenLayer Marketing Data Platform</b> - <i>Fullstack Developer & Technical Lead</i></summary>
+<br/>
+
+> Enterprise marketing data platform to automate measurement, centralize data strategy, and prove marketing ROI with AI-powered insights.
+
+**🔧 Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**✨ Key Features:**
+- 🎯 Automated data collection with prebuilt Listeners library
+- 🔒 Server-side tagging & cookieless architecture
+- 🤖 AI-powered insights and automated reporting
+- 📊 Real-time behavioral insights tied to revenue
+- 🛡️ SOC2 Type 2 compliance & enterprise security
+
+**🎯 Impact:** Revolutionized marketing data management by providing centralized source of truth, enabling direct revenue attribution without programming skills.
+
+🔗 [View Project](https://www.listenlayer.com/)
+
+</details>
+
+<details>
+<summary><b>💚 CAMS-care Mental Health Training Platform</b> - <i>Fullstack Developer (3 years)</i></summary>
+<br/>
+
+> Comprehensive mental health training platform for suicide prevention serving 40,000+ mental health professionals worldwide.
+
+**🔧 Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**✨ Key Features:**
+- 📚 CAMS Framework® training modules and certifications
+- 🎓 Interactive coursework with competency reviews
+- 🏅 Multi-level certification system (CAMS Trained™, CAMS Certified™)
+- 📈 Training progress tracking and analytics
+- 🔒 HIPAA compliance and data security
+
+**📊 Metrics:**
+- 👥 **60,000+** registered users
+- 🎯 **40,000+** trained mental health professionals
+- ⚡ **3,000+** daily active users
+- ✅ Resolves suicidal ideation in **6 sessions** average
+
+**🎯 Impact:** Empowered 40,000+ professionals with evidence-based suicide prevention training, contributing to the Zero Suicide Initiative and 2024 National Strategy for Suicide Prevention.
+
+🔗 [View Project](https://cams-care.com/)
+
+</details>
+
+<details>
+<summary><b>🐾 PetInsurance.com</b> - <i>Frontend Developer & Content Platform Specialist</i></summary>
+<br/>
+
+> High-traffic educational platform providing comprehensive pet insurance information for Nationwide® insurance products.
+
+**🔧 Tech Stack:**  
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white)
+
+**✨ Key Features:**
+- 📖 Comprehensive pet insurance information portal
+- 📱 Mobile-responsive design optimized for all devices
+- ⚡ Performance-optimized static site with Gatsby
+- 🔍 SEO-optimized content management
+- ♿ Accessible design following web standards
+
+**📊 Metrics:**
+- 👥 **500,000+** monthly unique visitors
+- 📄 **2M+** monthly page views
+- 🚀 **95+** Lighthouse performance score
+- ⏱️ **3.5 min** average session duration
+- ✅ **99.95%** platform availability
+
+**🎯 Impact:** Enhanced pet insurance education for thousands of pet owners, improved content delivery performance by 60%, achieved high engagement with 3.5-minute average sessions.
+
+🔗 [View Project](https://www.petinsurance.com/)
+
+</details>
+
+<details>
+<summary><b>📊 A/B Testing & CRO Services</b> - <i>Technical Lead & Frontend Developer</i></summary>
+<br/>
+
+> Comprehensive A/B testing and Conversion Rate Optimization using Convert.com platform for multiple clients including Neighborly.com.
+
+**🔧 Tech Stack:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**✨ Key Features:**
+- 🧪 A/B testing strategy development and implementation
+- 📊 Conversion funnel analysis and optimization
+- 📱 Mobile conversion rate optimization
+- 📈 Statistical significance analysis and reporting
+- 🎯 Service booking flow optimization
+
+**📊 Metrics:**
+- 🧪 **150+** A/B tests successfully executed
+- 📈 **25%** average conversion rate improvement
+- 💰 **$2.8M** additional revenue generated
+- � **35%** increase in service booking conversions
+- 📱 **45%** improvement in mobile conversion rates
+
+**🎯 Impact:** Successfully improved conversion rates by 25% across all clients, generating over $2.8M in additional revenue through systematic testing and optimization.
+
+🔗 [View Project](https://www.neighborly.com/)
+
+</details>
+
+<br/>
+
+<div align="center">
+
+### 🚀 **More Projects**
+
+**Multi-Client Web Development & Optimization Services**  
+*Technical Leader & Fullstack Developer (2020-Present)*
+
+| 🎯 Achievement | 📊 Metric |
+|:---|:---|
+| Projects Completed | **50+** successful deliveries |
+| Performance Improvement | **40%** average increase |
+| SEO Improvement | **60%** organic traffic boost |
+| Accessibility | **100%** WCAG 2.1 AA compliance |
+| Client Satisfaction | **95%** satisfaction rate |
+
+**Tech Stack:** WordPress • Next.js • NestJS • TypeScript • React • Node.js • PHP • PostgreSQL • Tailwind CSS
+
+</div>
+
+---
+
+## �🏆 **05. Achievements & Stats**
 
 <div align="center">
 
@@ -108,7 +267,7 @@
 
 ---
 
-## 🤝 **05. Let's Connect**
+## 🤝 **06. Let's Connect**
 
 <div align="center">
 
