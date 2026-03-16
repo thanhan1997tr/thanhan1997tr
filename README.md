@@ -2,11 +2,11 @@
 
 <div align="center">
   
-  ![An Tran Banner](https://lh3.googleusercontent.com/d/1WGF9i2lLbQCj-3dv-fiY6IPLh2Ry3tMA)
+  ![An Tran Banner](https://lh3.googleusercontent.com/d/1lOYqiUuxz1LlUlAAImJkp7gkiEz9TzLV)
   
-  ### 🚀 Leading teams that transform **ideas** into **profitable digital solutions**
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Senior+Fullstack+Developer;Technical+Team+Leader;React+%26+Node.js+Expert;5%2B+Years+Experience)](https://git.io/typing-svg)
+  ### 🚀 AI-augmented engineer who transforms **ideas** into **profitable digital solutions**
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=false&width=600&height=60&lines=AI-Augmented+Developer;Technical+Lead;React+%26+Node.js+Expert;CRO+Specialist;5%2B+Years+Experience)](https://git.io/typing-svg)
   
 </div>
 
@@ -14,15 +14,16 @@
 
 ## 🎯 **01. About Me**
 
-> 💡 **Technical Leader** with 5+ years of experience, leading development teams and delivering **30+ enterprise applications** for international clients with **99.9% uptime**.
+> 💡 **AI-Augmented Software Engineer & Technical Lead** who leverages AI tools to accelerate development and deliver smarter solutions. 5+ years building scalable web applications for international clients, with expertise in A/B testing, CRO, and integrating AI-powered features into production systems.
 
 **🎯 Current Focus:**
+- 🤖 Integrating AI tools (Claude Code, Cursor, Copilot) into development workflows
 - 🏢 Leading development teams at Screen1 Technologies
-- 🚀 Building scalable web applications  
-- 👨‍🏫 Mentoring junior developers
-- 🔄 Digital transformation initiatives
+- 🚀 Building scalable web applications with AI-assisted workflows
+- 👨‍🏫 Mentoring developers on AI-augmented development practices
+- 📊 A/B testing & CRO optimization
 
-📍 **Nha Trang, Vietnam** | ⏰ **5+ years experience** | 👥 **2+ years leadership** | ✅ **Available for hire**
+📍 **Nha Trang, Vietnam** | ⏰ **5+ years experience** | 👥 **2+ years leadership** | 🤖 **AI-augmented workflow** | ✅ **Available for hire**
 
 ---
 
@@ -47,6 +48,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **AI & Automation**
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 </div>
 
@@ -248,22 +255,23 @@
 
 ---
 
-## �🏆 **05. Achievements & Stats**
+## 🏆 **05. Achievements & Stats**
 
 <div align="center">
 
-| 💼 **Experience** | 🚀 **Projects** | 👥 **Leadership** | ⚡ **Uptime** |
+| 💼 **Experience** | 🚀 **Projects** | 👥 **Leadership** | 🤝 **Clients Served** |
 |:---:|:---:|:---:|:---:|
-| **5+ Years** | **30+ Delivered** | **2+ Years** | **99.9%** |
+| **5+ Years** | **40+ Delivered** | **2+ Years** | **18+** |
 
 </div>
 
 ### 🎯 **Key Accomplishments**
+- 🤖 **Integrated AI tools** (Claude Code, Cursor, Copilot) into team workflow, accelerating development cycle
 - 🏢 **Led cross-functional teams** of 5+ engineers at Screen1 Technologies
-- 📈 **Improved team productivity by 40%** through coding standards and mentorship
+- 📈 **Improved team productivity by 40%** through coding standards and AI-augmented practices
 - 🌍 **Delivered solutions for international clients** across healthcare, fintech, e-commerce
 - ⚡ **Reduced deployment time by 70%** with CI/CD implementation
-- 🎨 **Built scalable architectures** handling 100K+ daily active users
+- 🧠 **Architected AI-driven features** including automated reporting, intelligent insights, and content extraction
 
 ---
 
