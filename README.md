@@ -14,7 +14,7 @@
 
 ## 🎯 **01. About Me**
 
-> 💡 **AI-Augmented Software Engineer & Technical Lead** who leverages AI tools to accelerate development and deliver smarter solutions. 5+ years building scalable web applications for international clients, with expertise in A/B testing, CRO, and integrating AI-powered features into production systems.
+> 💡 **AI-Augmented Software Engineer & Technical Lead** who leverages AI tools to accelerate development and deliver smarter solutions. 6+ years building scalable web applications for international clients, with expertise in A/B testing, CRO, and integrating AI-powered features into production systems.
 
 **🎯 Current Focus:**
 - 🤖 Integrating AI tools (Claude Code, Cursor, Copilot) into development workflows
@@ -23,7 +23,7 @@
 - 👨‍🏫 Mentoring developers on AI-augmented development practices
 - 📊 A/B testing & CRO optimization
 
-📍 **Nha Trang, Vietnam** | ⏰ **5+ years experience** | 👥 **2+ years leadership** | 🤖 **AI-augmented workflow** | ✅ **Available for hire**
+📍 **Nha Trang, Vietnam** | ⏰ **6+ years experience** | 👥 **3+ years leadership** | 🤖 **AI-augmented workflow** | ✅ **Available for hire**
 
 ---
 
@@ -261,7 +261,7 @@
 
 | 💼 **Experience** | 🚀 **Projects** | 👥 **Leadership** | 🤝 **Clients Served** |
 |:---:|:---:|:---:|:---:|
-| **5+ Years** | **40+ Delivered** | **2+ Years** | **18+** |
+| **6+ Years** | **40+ Delivered** | **3+ Years** | **18+** |
 
 </div>
 
