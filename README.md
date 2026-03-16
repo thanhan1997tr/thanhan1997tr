@@ -6,7 +6,7 @@
   
   ### 🚀 AI-augmented engineer who transforms **ideas** into **profitable digital solutions**
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=false&width=600&height=60&lines=AI-Augmented+Developer;Technical+Lead;React+%26+Node.js+Expert;CRO+Specialist;5%2B+Years+Experience)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=false&width=600&height=60&lines=AI-Augmented+Developer;Technical+Lead;React+%26+Node.js+Expert;CRO+Specialist;6%2B+Years+Experience)](https://git.io/typing-svg)
   
 </div>
 
@@ -223,7 +223,7 @@
 - 🧪 **150+** A/B tests successfully executed
 - 📈 **25%** average conversion rate improvement
 - 💰 **$2.8M** additional revenue generated
-- � **35%** increase in service booking conversions
+- 🎯 **35%** increase in service booking conversions
 - 📱 **45%** improvement in mobile conversion rates
 
 **🎯 Impact:** Successfully improved conversion rates by 25% across all clients, generating over $2.8M in additional revenue through systematic testing and optimization.
